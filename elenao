@@ -46,7 +46,7 @@ cd /etc
 git clone https://github.com/rskallux/antifac.git
 cd /etc/antifac
 chmod +x start.sh
-#./start.sh
+./start.sh
 cd /opt
 sleep 10
 rm $0
